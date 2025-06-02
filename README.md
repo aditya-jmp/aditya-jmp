@@ -3,6 +3,10 @@
 -->
 <h1 align="center">Hi 👋, I'm Aditya Chaurasia</h1>
 
+Hi! I’m a Class 11 Commerce student at CMR National PU College, HRBR Layout, Bangalore (Karnataka Pre-University Education Board).  
+I love playing games and exploring new technologies. Currently, I’m learning Python and looking forward to building fun projects and improving my coding skills.  
+I’m always open to connect, collaborate, and learn more from the developer community!
+
 ### 🏆 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya-jmp&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
