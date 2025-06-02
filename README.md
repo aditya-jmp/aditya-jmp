@@ -5,6 +5,7 @@
 
 Hi! I’m a Class 11 Commerce student at CMR National PU College, HRBR Layout, Bangalore (Karnataka Pre-University Education Board).  
 I love playing games and exploring new technologies. Currently, I’m learning Python and looking forward to building fun projects and improving my coding skills.  
+
 I’m always open to connect, collaborate, and learn more from the developer community!
 
 ### 🏆 GitHub Stats
